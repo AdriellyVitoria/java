@@ -1,3 +1,5 @@
+package basicoJava;
+
 public class Aulas10_11 {
     //**Variaveis***
 

@@ -1,3 +1,5 @@
+package basicoJava;
+
 import java.util.Scanner;
 
 public class LendoDadosScanner {
@@ -25,9 +27,6 @@ public class LendoDadosScanner {
                 " tem animal? " + temPet );
 
         leitura.close();
-
-
-
     }
 
 }

@@ -1,3 +1,5 @@
+package basicoJava;
+
 public class Aula5 {
 
     //Declaracao da class = class

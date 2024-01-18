@@ -1,3 +1,5 @@
+package basicoJava;
+
 public class Aula7 {
     //Tipos de erros
     //Erros de Sintaxe: errar na sintaxe
